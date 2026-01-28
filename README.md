@@ -1,2 +1,2 @@
-# jubilant-spoon
+# Vaccine Certificate tool
 1
